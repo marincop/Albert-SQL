@@ -75,3 +75,6 @@ Add a connection:
 - **Type** - Policy Secure (UAC) or Connection Server
 - **Name** - HPOC VPN
 - **Server URL** - lab-vpn.nutanix.com
+
+
+Albert Edit here --->  For how to create your own Labs
